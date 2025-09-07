@@ -28,5 +28,5 @@ jobs:
           REFS: ${{ github.ref }}
           USER_ID: 571399394
           USER_TOKEN: ${{ secrets.USER_TOKEN }}
-          REPO: "netease-music-card-fixed"
-          AUTHOR: "luyanci"
+          REPO: "netease-cloud-music-card"
+          AUTHOR: "HRxiaohu"
